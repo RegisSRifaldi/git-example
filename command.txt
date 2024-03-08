@@ -1,0 +1,8 @@
+git init -> melakukan inisialisasi sebuah project github baru
+
+git status -> melihat status perubahan didalam project git
+
+git add =-> untuk menambahkan file kedalam staging area
+
+git commit -> untuk menuliskan berita acara dan memindahkan kedalam local repository
+
